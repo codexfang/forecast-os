@@ -20,6 +20,4 @@ A modern weather timeline and visualization dashboard that can search any city a
 - [date-fns](https://date-fns.org)
 - [Open-Meteo API](https://open-meteo.com)
 
-## License
 
-MIT
